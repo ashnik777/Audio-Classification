@@ -1,4 +1,4 @@
-# This is the README file of Audio Classification poject developed by Ashot Nikoghosyan
+#Audio Classification
 
 ## CONTENTS 
 * AUTHOR
